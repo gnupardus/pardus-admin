@@ -126,3 +126,5 @@ ansible -i hosts -a “ip a” parduslar
 ```
 
 şeklinde sadece parduslar grubunda olan istemcilere uygulanır.
+
+Kaynak : [pardus-ansible](https://dev.to/farukomercakmak/pardus-ansible-237g)
